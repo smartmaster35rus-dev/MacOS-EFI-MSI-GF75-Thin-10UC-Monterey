@@ -7,23 +7,23 @@
 
 <p align="center">
 
-[рџ“‹ Sonoma build](https://github.com/smartmaster35rus-dev/MacOS-EFI-MSI-GF75-Thin-10UC/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[📋 Sonoma build](https://github.com/smartmaster35rus-dev/MacOS-EFI-MSI-GF75-Thin-10UC/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **OpenCore EFI (Monterey)** для MSI GF75 Thin 10UC — Hackintosh Platinum Edition под **macOS Monterey**.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 OpenCore EFI for **macOS Monterey** on MSI GF75 Thin 10UC-048XRU.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -33,12 +33,12 @@ OpenCore EFI for **macOS Monterey** on MSI GF75 Thin 10UC-048XRU.
 
 ---
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - MSI GF75 Thin 10UC-048XRU
 - macOS Monterey
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -47,9 +47,9 @@ OpenCore EFI for **macOS Monterey** on MSI GF75 Thin 10UC-048XRU.
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -57,6 +57,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
